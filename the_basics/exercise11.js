@@ -1,0 +1,2 @@
+//Exercise 11: What value does the following expression evaluate to: parseInt('3.1415')?
+console.log(`It evaluates to ${parseInt('3.1415')}, because the function (parseInt()) halts at a non-digit character (decimal point).`);
