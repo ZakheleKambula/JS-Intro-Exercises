@@ -1,2 +1,3 @@
 #Ignore the files below
 .vscode/
+.node_modules/
