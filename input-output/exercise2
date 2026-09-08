@@ -1,0 +1,5 @@
+//Modify greeter.js to ask for user's first and last name separately, then greet the user with their full name.
+let rlSy = require("readline-sync");
+let firstName = rlSy.question("What is your first name?\n");
+let lastName = rlSy.question("What is your last name?\n");
+console.log(`Hello, ${firstName} ${lastName}!`);
