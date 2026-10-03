@@ -5,6 +5,6 @@ for (let i = 0; i < 5;) {
 }
 
 //No
-//Becaue the code has all three parts of a loop: statement, condition and update (although not inthe header but body loop)
+//Becaue the code has all three parts of a loop: statement, condition and update (although not in the header but body loop)
 //The code logs 1-5, and terminates when i = 5 after the fifth iteration and subsequent increment 
 
